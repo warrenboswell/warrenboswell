@@ -6,7 +6,7 @@ Currently available for **UK contract roles**, **technical consultancy**, and **
 
 ---
 
-### 🔒 Why are there no public repositories here?
+### 🔒 Why are there not many public repositories here?
 Almost 100% of my daily development work is commercial, proprietary, or built under strict NDA for direct clients and partner agencies. My contribution graph above reflects my daily commit activity across private client and organization repositories.
 
 ---
